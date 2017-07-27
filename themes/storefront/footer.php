@@ -34,6 +34,6 @@
 </div><!-- #page -->
 
 <?php wp_footer(); ?>
-<p style="color: #FFFFFF; text-align: center">Rua Exemplo do Exemplo  - 123 Bairro Exemplar Cep: 000000-000  Exemplificando - EX - Brasil</p>
+<p style="color: #FFFFFF; text-align: center; margin-top: 0px">Boutique Mil Arts & Mulheres Mil & Coxim - MS - Brasil</p>
 </body>
 </html>

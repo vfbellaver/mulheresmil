@@ -1,0 +1,322 @@
+07-26-2017 @ 08:29:47 - Requesting token for order 220 with the following data: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<checkout>
+  <currency>BRL</currency>
+  <reference><![CDATA[BMA -220]]></reference>
+  <sender>
+    <email><![CDATA[vfbellaver@gmail.com]]></email>
+    <documents>
+      <document>
+        <type>CPF</type>
+        <value>03136997123</value>
+      </document>
+    </documents>
+    <name><![CDATA[Vagner Felipe Bellaver]]></name>
+    <phone>
+      <areaCode>67</areaCode>
+      <number>996611455</number>
+    </phone>
+  </sender>
+  <shipping>
+    <type>3</type>
+    <address>
+      <street><![CDATA[Rua Para]]></street>
+      <number>185</number>
+      <complement><![CDATA[Casa]]></complement>
+      <postalCode>79400000</postalCode>
+      <city><![CDATA[Coxim]]></city>
+      <state>MS</state>
+      <country>BRA</country>
+    </address>
+    <cost>0</cost>
+  </shipping>
+  <items>
+    <item>
+      <id>1</id>
+      <description><![CDATA[Escultura decorativa]]></description>
+      <amount>5.00</amount>
+      <quantity>1</quantity>
+    </item>
+  </items>
+  <redirectURL><![CDATA[http://localhost/mulheresmil/finalizar-compra/pedido-recebido/220?key=wc_order_59788b38eb893]]></redirectURL>
+  <notificationURL><![CDATA[http://localhost/mulheresmil/wc-api/WC_PagSeguro_Gateway/]]></notificationURL>
+  <maxUses>1</maxUses>
+  <maxAge>120</maxAge>
+</checkout>
+
+07-26-2017 @ 08:29:56 - PagSeguro Payment Token created with success! The Token is: 02EBA1EE7474F634444D3F81D74839B3
+07-26-2017 @ 08:36:45 - Requesting token for order 221 with the following data: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<checkout>
+  <currency>BRL</currency>
+  <reference><![CDATA[BMA -221]]></reference>
+  <sender>
+    <email><![CDATA[vfbellaver@gmail.com]]></email>
+    <documents>
+      <document>
+        <type>CPF</type>
+        <value>03136997123</value>
+      </document>
+    </documents>
+    <name><![CDATA[Vagner Felipe Bellaver]]></name>
+    <phone>
+      <areaCode>67</areaCode>
+      <number>996611455</number>
+    </phone>
+  </sender>
+  <shipping>
+    <type>3</type>
+    <address>
+      <street><![CDATA[Rua Para]]></street>
+      <number>185</number>
+      <complement><![CDATA[Casa]]></complement>
+      <postalCode>79400000</postalCode>
+      <city><![CDATA[Coxim]]></city>
+      <state>MS</state>
+      <country>BRA</country>
+    </address>
+    <cost>0</cost>
+  </shipping>
+  <items>
+    <item>
+      <id>1</id>
+      <description><![CDATA[Escultura decorativa]]></description>
+      <amount>5.00</amount>
+      <quantity>1</quantity>
+    </item>
+  </items>
+  <redirectURL><![CDATA[http://localhost/mulheresmil/finalizar-compra/pedido-recebido/221?key=wc_order_59788cdbb31f8]]></redirectURL>
+  <notificationURL><![CDATA[http://localhost/mulheresmil/wc-api/WC_PagSeguro_Gateway/]]></notificationURL>
+  <maxUses>1</maxUses>
+  <maxAge>120</maxAge>
+</checkout>
+
+07-26-2017 @ 08:36:54 - PagSeguro Payment Token created with success! The Token is: 62E6F15E2C2CD9188498EFA0FE1BDBB0
+07-26-2017 @ 08:42:20 - Requesting token for order 222 with the following data: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<checkout>
+  <currency>BRL</currency>
+  <reference><![CDATA[BMA -222]]></reference>
+  <sender>
+    <email><![CDATA[vfbellaver@gmail.com]]></email>
+    <documents>
+      <document>
+        <type>CPF</type>
+        <value>03136997123</value>
+      </document>
+    </documents>
+    <name><![CDATA[Vagner Felipe Bellaver]]></name>
+    <phone>
+      <areaCode>67</areaCode>
+      <number>996611455</number>
+    </phone>
+  </sender>
+  <shipping>
+    <type>3</type>
+    <address>
+      <street><![CDATA[Rua Para]]></street>
+      <number>185</number>
+      <complement><![CDATA[Casa]]></complement>
+      <postalCode>79400000</postalCode>
+      <city><![CDATA[Coxim]]></city>
+      <state>MS</state>
+      <country>BRA</country>
+    </address>
+    <cost>0</cost>
+  </shipping>
+  <items>
+    <item>
+      <id>1</id>
+      <description><![CDATA[Escultura decorativa]]></description>
+      <amount>5.00</amount>
+      <quantity>1</quantity>
+    </item>
+  </items>
+  <redirectURL><![CDATA[http://localhost/mulheresmil/finalizar-compra/pedido-recebido/222?key=wc_order_59788e29d810c]]></redirectURL>
+  <notificationURL><![CDATA[http://localhost/mulheresmil/wc-api/WC_PagSeguro_Gateway/]]></notificationURL>
+  <maxUses>1</maxUses>
+  <maxAge>120</maxAge>
+</checkout>
+
+07-26-2017 @ 08:42:26 - Invalid token and/or email settings!
+07-26-2017 @ 08:42:58 - Requesting token for order 223 with the following data: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<checkout>
+  <currency>BRL</currency>
+  <reference><![CDATA[BMA -223]]></reference>
+  <sender>
+    <email><![CDATA[vfbellaver@gmail.com]]></email>
+    <documents>
+      <document>
+        <type>CPF</type>
+        <value>03136997123</value>
+      </document>
+    </documents>
+    <name><![CDATA[Vagner Felipe Bellaver]]></name>
+    <phone>
+      <areaCode>67</areaCode>
+      <number>996611455</number>
+    </phone>
+  </sender>
+  <shipping>
+    <type>3</type>
+    <address>
+      <street><![CDATA[Rua Para]]></street>
+      <number>185</number>
+      <complement><![CDATA[Casa]]></complement>
+      <postalCode>79400000</postalCode>
+      <city><![CDATA[Coxim]]></city>
+      <state>MS</state>
+      <country>BRA</country>
+    </address>
+    <cost>0</cost>
+  </shipping>
+  <items>
+    <item>
+      <id>1</id>
+      <description><![CDATA[Escultura decorativa]]></description>
+      <amount>5.00</amount>
+      <quantity>1</quantity>
+    </item>
+  </items>
+  <redirectURL><![CDATA[http://localhost/mulheresmil/finalizar-compra/pedido-recebido/223?key=wc_order_59788e504f4fb]]></redirectURL>
+  <notificationURL><![CDATA[http://localhost/mulheresmil/wc-api/WC_PagSeguro_Gateway/]]></notificationURL>
+  <maxUses>1</maxUses>
+  <maxAge>120</maxAge>
+</checkout>
+
+07-26-2017 @ 08:43:01 - Invalid token and/or email settings!
+07-26-2017 @ 08:51:29 - Requesting token for order 224 with the following data: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<checkout>
+  <currency>BRL</currency>
+  <reference><![CDATA[BMA -224]]></reference>
+  <sender>
+    <email><![CDATA[vfbellaver@gmail.com]]></email>
+    <documents>
+      <document>
+        <type>CPF</type>
+        <value>03136997123</value>
+      </document>
+    </documents>
+    <name><![CDATA[Vagner Felipe Bellaver]]></name>
+    <phone>
+      <areaCode>67</areaCode>
+      <number>996611455</number>
+    </phone>
+  </sender>
+  <shipping>
+    <type>3</type>
+    <address>
+      <street><![CDATA[Rua Para]]></street>
+      <number>185</number>
+      <complement><![CDATA[Casa]]></complement>
+      <postalCode>79400000</postalCode>
+      <city><![CDATA[Coxim]]></city>
+      <state>MS</state>
+      <country>BRA</country>
+    </address>
+    <cost>0</cost>
+  </shipping>
+  <items>
+    <item>
+      <id>1</id>
+      <description><![CDATA[Escultura decorativa]]></description>
+      <amount>5.00</amount>
+      <quantity>1</quantity>
+    </item>
+  </items>
+  <redirectURL><![CDATA[http://localhost/mulheresmil/finalizar-compra/pedido-recebido/224?key=wc_order_5978904f9e40f]]></redirectURL>
+  <notificationURL><![CDATA[http://localhost/mulheresmil/wc-api/WC_PagSeguro_Gateway/]]></notificationURL>
+  <maxUses>1</maxUses>
+  <maxAge>120</maxAge>
+</checkout>
+
+07-26-2017 @ 08:51:36 - PagSeguro Payment Token created with success! The Token is: DAB61DAB3333900004158FA8012FBAB4
+07-26-2017 @ 08:53:50 - Requesting token for order 225 with the following data: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<checkout>
+  <currency>BRL</currency>
+  <reference><![CDATA[BMA -225]]></reference>
+  <sender>
+    <email><![CDATA[vfbellaver@gmail.com]]></email>
+    <documents>
+      <document>
+        <type>CPF</type>
+        <value>03136997123</value>
+      </document>
+    </documents>
+    <name><![CDATA[Vagner Felipe Bellaver]]></name>
+    <phone>
+      <areaCode>67</areaCode>
+      <number>996611455</number>
+    </phone>
+  </sender>
+  <shipping>
+    <type>3</type>
+    <address>
+      <street><![CDATA[Rua Para]]></street>
+      <number>185</number>
+      <complement><![CDATA[Casa]]></complement>
+      <postalCode>79400000</postalCode>
+      <city><![CDATA[Coxim]]></city>
+      <state>MS</state>
+      <country>BRA</country>
+    </address>
+    <cost>0</cost>
+  </shipping>
+  <items>
+    <item>
+      <id>1</id>
+      <description><![CDATA[Escultura decorativa]]></description>
+      <amount>5.00</amount>
+      <quantity>1</quantity>
+    </item>
+  </items>
+  <redirectURL><![CDATA[http://localhost/mulheresmil/finalizar-compra/pedido-recebido/225?key=wc_order_597890dccd615]]></redirectURL>
+  <notificationURL><![CDATA[http://localhost/mulheresmil/wc-api/WC_PagSeguro_Gateway/]]></notificationURL>
+  <maxUses>1</maxUses>
+  <maxAge>120</maxAge>
+</checkout>
+
+07-26-2017 @ 08:53:52 - Invalid token and/or email settings!
+07-26-2017 @ 08:56:19 - Requesting token for order 226 with the following data: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<checkout>
+  <currency>BRL</currency>
+  <reference><![CDATA[BMA -226]]></reference>
+  <sender>
+    <email><![CDATA[vfbellaver@gmail.com]]></email>
+    <documents>
+      <document>
+        <type>CPF</type>
+        <value>03136997123</value>
+      </document>
+    </documents>
+    <name><![CDATA[Vagner Felipe Bellaver]]></name>
+    <phone>
+      <areaCode>67</areaCode>
+      <number>996611455</number>
+    </phone>
+  </sender>
+  <shipping>
+    <type>3</type>
+    <address>
+      <street><![CDATA[Rua Para]]></street>
+      <number>185</number>
+      <complement><![CDATA[Casa]]></complement>
+      <postalCode>79400000</postalCode>
+      <city><![CDATA[Coxim]]></city>
+      <state>MS</state>
+      <country>BRA</country>
+    </address>
+    <cost>0</cost>
+  </shipping>
+  <items>
+    <item>
+      <id>1</id>
+      <description><![CDATA[Escultura decorativa]]></description>
+      <amount>5.00</amount>
+      <quantity>1</quantity>
+    </item>
+  </items>
+  <redirectURL><![CDATA[http://localhost/mulheresmil/finalizar-compra/pedido-recebido/226?key=wc_order_59789170dcaac]]></redirectURL>
+  <notificationURL><![CDATA[http://localhost/mulheresmil/wc-api/WC_PagSeguro_Gateway/]]></notificationURL>
+  <maxUses>1</maxUses>
+  <maxAge>120</maxAge>
+</checkout>
+
+07-26-2017 @ 08:56:19 - PagSeguro Payment Token created with success! The Token is: 2C87A2ABD3D3D2AFF40E0FB13DD85139

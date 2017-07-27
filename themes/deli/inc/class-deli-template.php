@@ -42,6 +42,11 @@ class Deli_Template {
 	public function primary_navigation_wrapper_close() {
 		echo '</section>';
 	}
+
+	/**
+	 * Content wrapper
+	 * @return void
+	 */
 	function content_wrapper() {
 		echo '<div class="deli-content-wrapper">';
 	}
@@ -52,9 +57,7 @@ class Deli_Template {
 	 */
 	function content_wrapper_close() {
 		echo '</div>';
-	}	
-	
-	
+	}
 }
 
 }
